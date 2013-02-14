@@ -1,0 +1,67 @@
+/*
+    Document   : register
+    Created on : 17 Apr, 2012, 8:00:20 PM
+    Author     : Udit Desai
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#SignUp-box {
+	width:500px;
+	height: 700px;
+	padding: 58px 76px 0 76px;
+	color: #ebebeb;
+	font: 12px Arial, Helvetica, sans-serif;
+	background: url(images/login-box-backg.png) no-repeat left top;
+}
+
+#SignUp-box img {
+	border:none;
+}
+
+#SignUp-box h2 {
+	padding:0;
+	margin:0;
+	color: #ebebeb;
+	font: bold 44px "Calibri", Arial;
+}
+
+
+.SignUp-box-name {
+	float: left;
+	display:inline;
+	width:80px;
+	text-align: right;
+	padding: 14px 10px 0 0;
+	margin:0 0 7px 0;
+}
+
+.SignUp-box-field {
+	float: left;
+	display:inline;
+	width:230px;
+	margin:0;
+	margin:0 0 7px 0;
+}
+
+
+.form-SignUp {
+	width: 250px;
+	padding: 10px 4px 6px 3px;
+	border: 1px solid #0d2c52;
+	background-color:#1e4f8a;
+	font-size: 14px;
+	color: #ebebeb;
+}
+
+
+.SignUp-box-options  {
+	clear:both;
+	padding-left:87px;
+	font-size: 11px;
+}
+
+.SignUp-box-options a {
+	color: #ebebeb;
+	font-size: 10px;
+}
